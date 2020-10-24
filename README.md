@@ -30,6 +30,10 @@ PCA Dimensionality reduction technique
 - Eliminating features by checking multi-collinearity
 - Recursive Feature Elimination
  
+#### Cross Validation Technique used
+- GridSearchCV
+- RandomisedSearchCV
+
 #### Performace Metric focussed on:
 Recall of the model.
 Reason: The main aspect of the predictive models is to identify the customers about to churn properly. 
