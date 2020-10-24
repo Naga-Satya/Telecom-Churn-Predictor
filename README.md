@@ -31,4 +31,5 @@ PCA Dimensionality reduction technique
 - Recursive Feature Elimination
  
 #### Performace Metric focussed on:
-Sensitivity of the model.
+Recall of the model.
+Reason: The main aspect of the predictive models is to identify the customers about to churn properly. 
