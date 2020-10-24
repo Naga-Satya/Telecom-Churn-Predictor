@@ -25,6 +25,9 @@ PCA Dimensionality reduction technique
 #### Interpretable Model:
 - Logistic Regression Model
 
+#### Balancing Techniques used
+SMOTE balancing technique
+
 #### Methods used to find important features for interpretable model
 - p value significance
 - Eliminating features by checking multi-collinearity
